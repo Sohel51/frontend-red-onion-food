@@ -1,0 +1,19 @@
+.background-img {
+    background-image: url(../../../images/bannerbackground2.png);
+    height: 60vh;
+    background-size: cover;
+}
+
+input::placeholder{
+    text-align: center;
+ }
+
+
+.text-center {
+    position: relative;
+    top: 35%;
+}
+
+.input-field {
+    width: 400px;
+}
